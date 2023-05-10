@@ -4,3 +4,5 @@ Alice Mukora, McGill University
 Introduction: Trying to learn techniques for my masters thesis
 
 References:
+Wikipedia maybe
+
